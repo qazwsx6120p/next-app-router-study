@@ -7,7 +7,6 @@ export const metadata = {
 };
 
 const Posts = () => {
-  // throw new Error("我製造的 Error")
   return <div>Posts</div>;
 };
 
